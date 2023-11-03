@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+body{
+    background-image: url(../img/fotitit.jpeg);
+    /* background-repeat: no-repeat; */
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.distis{
+  background-color: rgba(0, 0, 0, 0.664);
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.container_todatal{
+   
+    height: 650px;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    
+}
+.img{
+    width: 90%; 
+    height: 500px;
+}
+.letra{
+
+  
+    width:100%;
+}
+.letra_de_dentro{
+    line-height: 1.9;
+}
